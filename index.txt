@@ -1,1 +1,5 @@
-example
+todo:
+eat
+code
+sleep
+repeat
